@@ -88,7 +88,3 @@ requirement even when the underlying model is nominally free, and that's
 the kind of thing you only find by actually shipping and hitting the 429,
 not by reading the marketing page.
 
-## Link to App or Repo
-
-Source code (Lambda handler and full setup documentation):
-`[add your GitHub repo URL here after pushing]`
