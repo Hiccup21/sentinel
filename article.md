@@ -88,7 +88,7 @@ requirement even when the underlying model is nominally free, and that's
 the kind of thing you only find by actually shipping and hitting the 429,
 not by reading the marketing page.
 
-## Link to App or Repo
+## Link to Repo
 
 Source code (Lambda handler and full setup documentation):
-
+https://github.com/Hiccup21/sentinel.git
