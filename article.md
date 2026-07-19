@@ -22,7 +22,7 @@ a watcher that pings you constantly is just noise with extra steps. When
 something does clear the bar, it emails me a plain-text summary, and that's
 sitting in my inbox whenever I next check it.
 
-## How You Built It
+## How it was Built
 
 This project didn't start as Sentinel — it started as a completely
 different agent, a 6 AM "morning brief" that summarized weather and tech
@@ -73,7 +73,7 @@ EventBridge Scheduler (rate: 3 hours)
      DynamoDB (baselines / seen-item tracking)      SES (send alert, only if triggered)
 ```
 
-## What You Learned
+## What i Learned
 
 The biggest lesson was that reliability for an unattended agent comes from
 how it fails, not just how it succeeds. Every external call in this agent —
